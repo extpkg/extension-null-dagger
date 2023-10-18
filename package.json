@@ -1,7 +1,7 @@
 {
   "name": "extension-null-dagger",
   "version": "1.0.0",
-  "description": "Extension description",
+  "description": "Navigate eerie caverns, dodge spectral entities, and avoid deadly traps in a mystical underworld journey.",
   "type": "module",
   "scripts": {
     "build": "cross-env NODE_ENV=production node ./scripts/build.mjs",

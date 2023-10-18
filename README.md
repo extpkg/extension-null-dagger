@@ -1,6 +1,6 @@
 # Null Dagger
 
-Extension description
+Navigate eerie caverns, dodge spectral entities, and avoid deadly traps in a mystical underworld journey.
 
 ## Build
 

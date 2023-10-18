@@ -2,7 +2,7 @@
   "manifest_version": "ext-v1",
   "name": "Null Dagger",
   "short_name": "Null Dagger",
-  "description": "Extension description",
+  "description": "Navigate eerie caverns, dodge spectral entities, and avoid deadly traps in a mystical underworld journey.",
   "version": "1.0.0",
   "author": "EXT, Inc.",
   "icons": {
