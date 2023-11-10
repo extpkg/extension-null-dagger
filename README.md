@@ -1,6 +1,7 @@
 # Null Dagger
 
-Navigate eerie caverns, dodge spectral entities, and avoid deadly traps in a mystical underworld journey.
+Navigate eerie caverns, dodge spectral entities, and avoid deadly traps in a
+mystical underworld journey.
 
 ## Build
 
