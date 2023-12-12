@@ -14,3 +14,6 @@ mystical underworld journey.
 
 Run `npm run dev` to watch `src` and `public` directories and rebuild the
 project on changes
+
+## Source
+https://github.com/Escada-Games/null-dagger
